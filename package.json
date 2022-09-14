@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts" : {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chncitizen/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chncitizen/blog/issues"
+  },
+  "homepage": "https://github.com/chncitizen/blog#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.14",
+    "vue": "^3.2.39"
+  }
+}
